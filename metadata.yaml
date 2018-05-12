@@ -1,5 +1,8 @@
 _repo: La-Chartreuse-De-Parme_796
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stendhal
@@ -13,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Stendhal
 description: "The Charterhouse of Parma (French: La Chartreuse de Parme) is a novel\
   \ by Stendhal published in 1839.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/796#La-Chartreuse-De-Parme
 gutenberg_bookshelf:
 - Best Books Ever Listings
 - FR Littérature
